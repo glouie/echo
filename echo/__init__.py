@@ -1,0 +1,4 @@
+#!/usr/bin/python
+# vim: set fileencoding=utf-8 :
+
+from .plugin import get_pytest_config  # noqa: F401
